@@ -1,0 +1,9 @@
+div{
+    display: flex;
+    justify-content: center;
+}
+.flan{
+    background: #428bca;
+    width: fit-content;
+    height: fit-content;
+}
